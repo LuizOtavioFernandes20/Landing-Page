@@ -1,3 +1,9 @@
+
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 .intro-content {
   position: relative;
   /*top: -2.5rem;*/
