@@ -518,6 +518,11 @@ th {
     max-width: 100%;
     height: auto;
   }
+  
+  body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
 }
 
 
